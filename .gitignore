@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+out/
+reports/
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+Thumbs.db
+.DS_Store
